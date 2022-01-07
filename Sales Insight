@@ -1,3 +1,0 @@
-Sales insights data analysis project
-In this video, we will look at mysql database that is owned by falcons team. This database has all sales transactions, customers, products and markets information. We will analyse this database and than hook it up with Tableau
-First i clean and wrangle the data because data wasn't clean , Perform different steps like  currency normalization, handling invalid values etc.After that build a powerful dashboard that can help us generate sales insights.
